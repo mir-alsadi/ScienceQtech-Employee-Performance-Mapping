@@ -6,3 +6,7 @@ ScienceQtech is a startup that works in the Data Science field. ScienceQtech has
 Objective: 
 
 To facilitate a better understanding, managers have provided ratings for each employee which will help the HR department to finalize the employee performance mapping. As a DBA, I had to find the maximum salary of the employees and ensure that all jobs are meeting the organization's profile standard. I also needed to calculate bonuses to find extra cost for expenses. This will raise the overall performance of the organization by ensuring that all required employees receive training.
+
+
+Note:
+This project is for my SQL certification from Simplilearn. ScienceQtech and all relevant data are fictitious
